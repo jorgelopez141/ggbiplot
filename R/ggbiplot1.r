@@ -1,4 +1,8 @@
-# 
+# Ok my comments:
+# you don't need to have the creation of the base plot inside if(var axes)
+# I created a variation where you can add the possibility of showing only some variables (too many arrows can pile up and distract 
+# from the big picture)
+
 #  ggbiplot.r
 #  
 #  Copyright 2011 Vincent Q. Vu.
